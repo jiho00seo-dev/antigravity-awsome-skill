@@ -22,9 +22,25 @@ Before ANY commit that adds/modifies skills, run the chain:
     _Must return 0 errors for new skills._
 
 2.  **Regenerate Index**:
-    ```bash
     python3 scripts/generate_index.py
+
     ```
+
+    ```
+
+3.  **Update Readme**:
+
+    ```bash
+    python3 scripts/update_readme.py
+    ```
+
+4.  **COMMIT GENERATED FILES**:
+    ```bash
+    git add skills_index.json README.md
+    git commit -m "chore: sync generated files"
+    ```
+    > 🔴 **CRITICAL**: If you skip this, CI will fail with "Detected uncommitted changes".
+    > See [docs/CI_DRIFT_FIX.md](../docs/CI_DRIFT_FIX.md) for details.
 
 ### B. Post-Merge Routine (Must Do)
 
