@@ -525,4 +525,4 @@ We officially thank the following contributors for their help in making this rep
 
 ## Star History
 
-[![Star History Chart](assets/star-history.png)](https://www.star-history.com/#sickn33/antigravity-awesome-skills&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=sickn33/antigravity-awesome-skills&type=date&legend=top-left)](https://www.star-history.com/#sickn33/antigravity-awesome-skills&type=date&legend=top-left)
