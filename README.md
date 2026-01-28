@@ -1,6 +1,6 @@
-# 🌌 Antigravity Awesome Skills: 256+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
+# 🌌 Antigravity Awesome Skills: 257+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
 
-> **The Ultimate Collection of 256+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode**
+> **The Ultimate Collection of 257+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](https://claude.ai)
@@ -122,7 +122,7 @@ The repository is organized into several key areas of expertise:
 
 [Check out our Starter Packs in docs/BUNDLES.md](docs/BUNDLES.md) to find the perfect toolkit for your role.
 
-## Full Skill Registry (256/256)
+## Full Skill Registry (257/257)
 
 > [!NOTE] > **Document Skills**: We provide both **community** and **official Anthropic** versions for DOCX, PDF, PPTX, and XLSX. Locally, the official versions are used by default (via symlinks). In the repository, both versions are available for flexibility.
 
@@ -240,6 +240,7 @@ The repository is organized into several key areas of expertise:
 | **hubspot-integration** | ⚪ | Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs. Use when: hubspot, hubspot api, hubspot crm, hubspot integration, contacts api. | `skills/hubspot-integration` |
 | **i18n-localization** | ⚪ | Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support. | `skills/i18n-localization` |
 | **IDOR Vulnerability Testing** | ⚪ | This skill should be used when the user asks to "test for insecure direct object references," "find IDOR vulnerabilities," "exploit broken access control," "enumerate user IDs or object references," or "bypass authorization to access other users' data." It provides comprehensive guidance for detecting, exploiting, and remediating IDOR vulnerabilities in web applications. | `skills/idor-testing` |
+| **Infinite Gratitude** | 🔵 | Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies). | `skills/infinite-gratitude` |
 | **inngest** | ⚪ | Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers. Use when: inngest, serverless background job, event-driven workflow, step function, durable execution. | `skills/inngest` |
 | **interactive-portfolio** | ⚪ | Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios, and portfolios that convert visitors into opportunities. Use when: portfolio, personal website, showcase work, developer portfolio, designer portfolio. | `skills/interactive-portfolio` |
 | **internal-comms** | ⚪ | A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.). | `skills/internal-comms-anthropic` |

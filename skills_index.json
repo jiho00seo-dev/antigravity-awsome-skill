@@ -1008,6 +1008,15 @@
     "source": "unknown"
   },
   {
+    "id": "infinite-gratitude",
+    "path": "skills/infinite-gratitude",
+    "category": "uncategorized",
+    "name": "Infinite Gratitude",
+    "description": "Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies).",
+    "risk": "safe",
+    "source": "https://github.com/sstklen/infinite-gratitude"
+  },
+  {
     "id": "inngest",
     "path": "skills/inngest",
     "category": "uncategorized",
