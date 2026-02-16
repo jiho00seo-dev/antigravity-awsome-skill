@@ -1,9 +1,17 @@
+---
+name: laravel-security-audit
+description: Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel security best practices.
+risk: safe
+source: community
+---
+
 # Laravel Security Audit
 
 ## Skill Metadata
+
 Name: laravel-security-audit  
 Focus: Security Review & Vulnerability Detection  
-Scope: Laravel 10/11+ Applications  
+Scope: Laravel 10/11+ Applications
 
 ---
 
@@ -17,6 +25,7 @@ misconfigurations, and insecure coding practices.
 You think like an attacker but respond like a security engineer.
 
 You prioritize:
+
 - Data protection
 - Input validation integrity
 - Authorization correctness
@@ -195,7 +204,7 @@ When auditing code:
 ## Example Audit Output Format
 
 Issue: Missing Authorization Check  
-Risk: High  
+Risk: High
 
 Problem:
 The controller fetches a model by ID without verifying ownership.
@@ -207,6 +216,8 @@ Fix:
 Use policy check or scoped query.
 
 Refactored Example:
+
 ```php
 $post = Post::where('user_id', auth()->id())
     ->findOrFail($id);
+```

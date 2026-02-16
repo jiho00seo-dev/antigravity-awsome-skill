@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 857,
+  "total": 860,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -12408,6 +12408,56 @@
       "path": "skills/langgraph/SKILL.md"
     },
     {
+      "id": "laravel-expert",
+      "name": "laravel-expert",
+      "description": "Senior Laravel Engineer role for production-grade, maintainable, and idiomatic Laravel solutions. Focuses on clean architecture, security, performance, and modern standards (Laravel 10/11+).",
+      "category": "security",
+      "tags": [
+        "laravel"
+      ],
+      "triggers": [
+        "laravel",
+        "senior",
+        "engineer",
+        "role",
+        "grade",
+        "maintainable",
+        "idiomatic",
+        "solutions",
+        "clean",
+        "architecture",
+        "security",
+        "performance"
+      ],
+      "path": "skills/laravel-expert/SKILL.md"
+    },
+    {
+      "id": "laravel-security-audit",
+      "name": "laravel-security-audit",
+      "description": "Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel security best practices.",
+      "category": "security",
+      "tags": [
+        "laravel",
+        "security",
+        "audit"
+      ],
+      "triggers": [
+        "laravel",
+        "security",
+        "audit",
+        "auditor",
+        "applications",
+        "analyzes",
+        "code",
+        "vulnerabilities",
+        "misconfigurations",
+        "insecure",
+        "owasp",
+        "standards"
+      ],
+      "path": "skills/laravel-security-audit/SKILL.md"
+    },
+    {
       "id": "last30days",
       "name": "last30days",
       "description": "Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool.",
@@ -16056,6 +16106,31 @@
         "should"
       ],
       "path": "skills/react-best-practices/SKILL.md"
+    },
+    {
+      "id": "react-flow-architect",
+      "name": "react-flow-architect",
+      "description": "Expert ReactFlow architect for building interactive graph applications with hierarchical node-edge systems, performance optimization, and auto-layout integration. Use when Claude needs to create or optimize ReactFlow applications for: (1) Interactive process graphs with expand/collapse navigation, (2) Hierarchical tree structures with drag & drop, (3) Performance-optimized large datasets with incremental rendering, (4) Auto-layout integration with Dagre, (5) Complex state management for nodes and edges, or any advanced ReactFlow visualization requirements.",
+      "category": "development",
+      "tags": [
+        "react",
+        "flow"
+      ],
+      "triggers": [
+        "react",
+        "flow",
+        "architect",
+        "reactflow",
+        "building",
+        "interactive",
+        "graph",
+        "applications",
+        "hierarchical",
+        "node",
+        "edge",
+        "performance"
+      ],
+      "path": "skills/react-flow-architect/SKILL.md"
     },
     {
       "id": "react-flow-node-ts",
